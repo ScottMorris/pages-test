@@ -1,3 +1,3 @@
 title: GitHub Pages Test Repo
 description: Let's see how this works!
-theme: slate
+remote_theme: pages-themes/slate@v0.2.0
